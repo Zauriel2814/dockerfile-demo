@@ -1,0 +1,1 @@
+psql -h localhost -p 5050 -U lessondbuser -W -d lessondb
